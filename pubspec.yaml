@@ -1,0 +1,15 @@
+name: flutter_platform_view_error
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^0.3.10+3
+
+flutter:
+  uses-material-design: true
